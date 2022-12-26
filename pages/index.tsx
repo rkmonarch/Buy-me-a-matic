@@ -57,8 +57,8 @@ export default function LandingPage() {
           href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap"
           rel="stylesheet"
         />
-        <title>Poly Funds</title>
-        <meta property="og:title" content="Poly Funds" key="title" />
+        <title>Buy Me a Matic</title>
+        <meta property="og:title" content="Buy me a matic" key="title" />
       </Head>
       <NavBar />
       <Container maxW={"3xl"} marginBottom={9}>

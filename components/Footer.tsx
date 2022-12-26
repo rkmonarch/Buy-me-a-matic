@@ -13,8 +13,8 @@ export const Footer = () => {
       py={4}
     >
       Made with ❤️ by{" "}
-      <Text as="a" href="https://twitter.com/0xMaki" color="gray.500">
-        @vrajdesai78
+      <Text as="a" href="https://twitter.com/0xrahulk" color="gray.500">
+        Rahul Kulkarni
       </Text>
     </Text>
   );

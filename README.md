@@ -12,8 +12,8 @@ The admin user must have Node.js and npm to use this boilerplate. Just download 
 
 Clone the repo via CLI:
 ```sh
-git clone https://github.com/vrajdesai78/poly-funds
-cd poly-funds
+git clone https://github.com/rkmonarch/Buy-me-a-matic
+cd Buy-me-a-matic
 ```
 
 Install the required packages:
